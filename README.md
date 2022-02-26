@@ -3,16 +3,17 @@
 ### Project: 3D Printable DIY External Enclosure for LTO-5 Tape Drive <img alt="" align="right" src="https://img.shields.io/badge/Status-Prototype%20Phase-informational?style=flat&logoColor=white&color=73398D" />
 
 <!-- Repo Cover Image -->
-<p style="background-color:rgba(22,22,22,1.00)" align="center">
-    <img align="center" src="https://github.com/CrashOverrideProductions/Tools/blob/main/LTO-External-Enclosure/RepoImages/LTODrive.png?raw=true" />
+<p align="center">
+    <img align="center" src="https://github.com/CrashOverrideProductions/LTO-External-Enclosure/blob/main/RepoImages/LTODrive.png?raw=true" />
 </p>
 
 <!-- Repo Stats -->
-<img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/LTO-External-Enclosure"> 
-<img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/LTO-External-Enclosure"> 
-<img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/LTO-External-Enclosure"> 
-<img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/LTO-External-Enclosure">
-
+<p>
+    <img align="center" src="https://img.shields.io/github/commit-activity/m/CrashOverrideProductions/LTO-External-Enclosure"> 
+    <img align="center" src="https://img.shields.io/github/last-commit/CrashOverrideProductions/LTO-External-Enclosure"> 
+    <img align="center" src="https://img.shields.io/github/languages/code-size/CrashOverrideProductions/LTO-External-Enclosure"> 
+    <img align="center" src="https://img.shields.io/github/directory-file-count/CrashOverrideProductions/LTO-External-Enclosure">
+</p>
 
 ### Details
 something something dark side, still trying to develop a proof of concept idea
