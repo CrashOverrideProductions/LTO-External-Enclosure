@@ -22,19 +22,21 @@ something something dark side, still trying to develop a proof of concept idea
 <!-- To Do List -->
 ### To Do List
 - [X] Design Prototype
-- [X] Design Power & Data Interface
+- [X] Design Prototype Power & Data Interface
 - [ ] Print & Test Prototype
+- [ ] Test Power & Data Interface
 - [ ] Finalise Design
 
----
+--- 
 ### Prototype Details
-##### Hardware
+##### Bill of Materials
 |  Part Number | Item                                                                  | Qty | Price AUD$ |
 | ------------ | ----------------------------------------------------------------------| :-: | ---------: |
 | Blue Harvest | Something Something Dark Side                                         | 0   | $0.00      |
 
 <br>
 ---
+
 <!-- Licencing Always at the Bottom -->
 ### Licencing <img alt="" align="right" src="https://img.shields.io/badge/Licence-CC--BY--NC--SA--4.0-informational?style=flat&logo=Creative%20Commons&logoColor=white&color=EF9421" />
 
